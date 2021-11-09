@@ -5,7 +5,7 @@
   
 <h3 alight="left">Want to get in touch with me? Here's how:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/tobias-sirianni/" target="blank"><img align= "center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/tobias-sirianni/" target="blank"><img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </p>
   
   
