@@ -3,9 +3,7 @@
 <h3 align="center">A back-end python developer and data scientist jr.</h3>
 </head>
 
-
-
-
+</br>
 <h4 alight="left">Want to get in touch with me? Here's how:</h4>
 <p>
 <a href="https://www.linkedin.com/in/tobias-sirianni/" target="blank"><img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
