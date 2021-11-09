@@ -9,11 +9,17 @@
 </p>
 
 
-<h3 alight="left">What do I know? Well...interesting question! Here are some of the tools I'm more confortable with:</h3>
+<h4 alight="left">What do I know? Well...interesting question! Here are some of the tools I'm more confortable with:</h4>
   
-  <div style="display: inline_block"><br>  
-  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <div style="display: inline_block"><br>
   <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+
+
+
+
 </div>
 
