@@ -1,6 +1,6 @@
 <head>
 <h1 align="center">Hello, I'm Tobias!</h1>
-<h3 aligh="center">A back-end python developer and data scientist jr.</h3>
+<h3 align="center">A back-end python developer and data scientist jr.</h3>
 </head>
 
 
