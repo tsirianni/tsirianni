@@ -5,26 +5,24 @@
 <br></br>
 <h4>Want do I know? Well...here are some of the tools I use/have some knowledge of:</h4>
 
-<img align='left' heigth=20 width=45 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Python.svg?token=AWEZKCQ2I6OUOGK53X7WZLLBVIJ32" />
-<img align='left' heigth=15 width=35 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Jupyter_logo.svg?token=AWEZKCSP4GG37XMTIVYTKHLBVIKGE" />
-<img align='left' heigth=15 width=35 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Visual_Studio_Code_1.35_icon.svg?token=AWEZKCVFNQIWGR77PBFJNS3BVIKGQ" />
-<img align='left' heigth=15 width=35 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/numpy-seeklogo.com.svg?token=AWEZKCXBKY5QVMR76HZDX3TBVIKHC" />
-<img align='left' heigth=15 width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align='left' heigth=15 width=35 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Git_icon.svg?token=AWEZKCR6TRSA7Y4QLYXML53BVJEXS"/ >
-<img align='left' heigth=15 width=35 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Matplotlib_icon.svg?token=AWEZKCSTLTSRRGEO6ZKXSGLBVJEWU" />
-<img align='left' heigth=30 width=50 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Scikit_learn_logo_small.svg?token=AWEZKCTQ45TRKHLCMB55CIDBVJEW2" />
-<img align='left' heigth=50 width=90 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/logo-wide-lightbg.svg?token=AWEZKCXGXJBQKRCIN34PWXTBVJEWY" />
-<img align='left' heigth=50 width=90 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/microsoft_powerbi-ar21.svg?token=AWEZKCS5AKVMIZ7NQTFLEDDBVJEZY" />
-<img align='left' heigth=20 width=120 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/tableau-logo.svg?token=AWEZKCTBEDWKPN7Z2SUUKSLBVJEZ2" /> 
-<img align='left' heigth=20 width=70 src="https://raw.githubusercontent.com/tsirianni/SVGs/main/Neo4j-logo-color.svg?token=AWEZKCXN2FMB524ZFT3O2JTBVJEZ4" /> 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 
+
+<h4>Notebooks/IDEs that I use:</h4>
+<img align='left' src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align='left' src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img align='left' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align='left' src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
 <br></br>
 <h4>Want to get in touch? Here's how:</h4>
-<p>
-<a href="https://www.linkedin.com/in/tobias-sirianni/" target="blank"><img align= "left" height="35" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<p>
-    
-<a href="mailto:<sirianni.gf@gmail.com>" alt="gmail" target="_blank">
-<img align= "center" height="35" width="120" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<sirianni.gf@gmail.com>" />
-</a>
+<a href="https://www.linkedin.com/in/tobias-sirianni/" target="_blank"><img align='left' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
+ <a href = "maito: sirianni.gf@gmail.com"><img align='left' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
