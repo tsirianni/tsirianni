@@ -1,6 +1,6 @@
 <head>
 <h1 align="center">Hello! I'm Tobias. It's great to see you here! :)</h1>
-<h3 align="center">Python | Data Science/Analytics | BI</h3>
+<h3 align="center">Back-end Developer | Python & Ruby</h3>
 </head>
 <br></br>
 <h4>Want do I know? Well...here are some of the tools I use/have some knowledge of:</h4>
