@@ -25,5 +25,5 @@
 
 <br></br>
 <h3>Want to get in touch? Here's how:</h3>
-<a href="https://www.linkedin.com/in/tobias-sirianni/" target="_blank"><img align='left' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a> 
-<a href = "mailto: sirianni.gf@gmail.com"><img align='left' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tobias-sirianni/" target="_blank"><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+</a>
