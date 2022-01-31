@@ -3,7 +3,7 @@
 <h3 align="center">Front-end Developer Jr | Web Developer</h3>
 </head>
 <br></br>
-<h3>Want do I know? Well...here are some of the tools I use:</h3>
+<h3>Want do I know? Well...here are some of the tools I use and/or have knowledge of:</h3>
 
 
 <img height=45 width=45 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -14,8 +14,13 @@
 <img height=45 width=45 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height=45 width=45 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img height=45 width=45 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-<img height=55 width=55 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
 <img height=55 width=55 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height=55 width=55 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img height=55 width=55 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+<img height=55 width=55 align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+
+
+
 
 <br>
 <br>
