@@ -29,7 +29,8 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&emsp;
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&emsp;
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />&emsp;
+<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
 </div>
 
 <br/>  
@@ -57,6 +58,7 @@ Although I don't work with them on a daily basis, I do posses some knowledge of 
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />&emsp;
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&emsp;
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />&emsp;
+<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&emsp;
 <img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 
