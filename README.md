@@ -6,69 +6,26 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
 <br/>  
 
 
-<h2>My skill set</h2> 
+<h2 align="center">My backend skill set</h2> 
 
-<h3>Backend</h3>
-<div align="left">
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />&emsp;
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div>
-
-<h3 align="middle">Databases</h3> 
-<div align="middle">  
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
-</div>
-
-<h3 align="right">Others</h3>
-<div align="right">  
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tsirianni/random-images/main/Backend%20Stack.png">&emsp;
 </div>
 
 <br/>  
 
-<h2>Important to know</h2>
-Although I don't work with them on a daily basis, I do posses some knowledge of other tools. However, it is important to highlight that I only have a basic knowledge of these. Here they are:  
+<h2 align="center">Important to know</h2>
+<p align="center">Although I don't work with them on a daily basis, I do posses some knowledge of other tools. However, it is important to highlight that I only posses a basic knowledge of these. Here they are:</p>
  
-<br/>  
+<br/>
 
-<h2>Frontend</h2>  
-<div align="left">  
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> &emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-</div>
-
-
-<h2 align="right">Others</h2>
-<div align="right">  
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />&emsp;
-<img height="75" widht="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
-
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tsirianni/random-images/main/other%20tools.svg">&emsp;
 </div>
 
 <br/>  
 
-<h2>Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 <a href="https://github.com/tsirianni" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -78,7 +35,7 @@ Although I don't work with them on a daily basis, I do posses some knowledge of 
   
 <br/>  
 
-<h2>Stats</h2>  
+<h2 align="center">Stats</h2>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=tsirianni&show_icons=true&count_private=true&hide_border=true" align="left" />
 
