@@ -9,7 +9,7 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
 <h2 align="center">My backend skill set</h2> 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tsirianni/random-images/main/Backend%20Stack.png">&emsp;
+  <img height=425 width=800 src="https://raw.githubusercontent.com/tsirianni/random-images/main/Backend%20Stack.png">&emsp;
 </div>
 
 <br/>  
@@ -20,7 +20,7 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tsirianni/random-images/main/other%20tools.svg">&emsp;
+  <img height=300 width=500 src="https://raw.githubusercontent.com/tsirianni/random-images/main/other%20tools%20png.png">&emsp;
 </div>
 
 <br/>  
