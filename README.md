@@ -35,14 +35,3 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>  
 </div>
-
-<br/>  
-
-<h2 align="center">Stats</h2>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=tsirianni&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsirianni&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>
-<br />
