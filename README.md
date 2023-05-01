@@ -14,17 +14,6 @@ Welcome! It is a pleasure to see you here at my profile. I am a junior back-end 
 
 <br/>  
 
-<h2 align="center">Important to know</h2>
-<p align="center">Although I don't work with them on a daily basis, I do posses some knowledge of other tools. However, it is important to highlight that I only posses a basic knowledge of these. Here they are:</p>
- 
-<br/>
-
-<div align="center">
-  <img height=300 width=500 src="https://raw.githubusercontent.com/tsirianni/random-images/main/other%20tools%20png.png">&emsp;
-</div>
-
-<br/>  
-
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
