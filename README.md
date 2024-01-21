@@ -18,10 +18,19 @@ Seja bem-vindo(a)!
 
 <br/>
 
+<h2>Stack</h2>
+
+Abaixo estão algumas das ferramentas que utilizo/possuo conhecimentos:
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,prisma,sequelize,nodejs,javascript,typescript,express,jest,docker,aws,azure,vscode,discord,linux,postman,git,markdown,figma)](https://skillicons.dev)  
+  
+Icons by: *@tandpfun/skill-icons*
+
+> [!IMPORTANT]
+> A lista acima não é exaustiva, nem todas as ferramentas possuem ícones, mas as faltantes já possuem issues abertos para incluí-las! ;)
+
 <h2>Entre em contato</h2>
 
-<div>
-  <a href="https://www.linkedin.com/in/tobias-sirianni/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tobias-sirianni/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&source=mailto&to=sirianni.gf@gmail.com)
+
