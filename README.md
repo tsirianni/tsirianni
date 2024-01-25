@@ -18,6 +18,18 @@ Seja bem-vindo(a)!
 
 <br/>
 
+<h2>Proficiente em Inglês</h2>
+
+<div>
+  <img align="left" height="140px" width="140px" src="https://github.com/tsirianni/tsirianni/assets/92902666/c4cd1435-deda-4f2a-9127-64a0115bb36e"></img>
+  <p align="right">
+    Possuo um excelente nível de inglês suportado por minha certificação Cambridge CELTA - Certification of Teaching English to Speakers of Other Languages. O CELTA é uma certificação voltada à professores de Inglês para não falantes nativos da língua, profissão que exerci por um tempo. Hoje em dia esse conhecimento é muito bem utilizado lendo documentações técnicas e expandindo minhas fontes de aprendizado com conteúdo internacional!
+  </p>
+</div>
+
+<br/>
+<br/>
+
 <h2>Stack</h2>
 
 Abaixo estão algumas das ferramentas que utilizo/possuo conhecimentos:
